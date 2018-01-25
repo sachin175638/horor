@@ -12,7 +12,7 @@ do
 	echo "          |  whats app no 8105190452     |"
 	echo "          ================================"
 	echo "           1 - hack gmail                "
-	echo "           2 - andorid lisionar         "
+	echo "           2 - start listener         "
 	echo "           3 - hide file in image		     "
 	echo "           4 - trace ip"
 	echo "           5 - exit "
